@@ -28,5 +28,4 @@ I am a passionate programmer focused on building functional applications that so
 
 ### 📫 How to reach me:
 * **Email:** ds27sam@gmail.com
-* **Portfolio:** [Visit My Portfolio Website](http://192.168.1.3:5000) 
-  *(Note: Your current link is a local IP. Once you host your site online, replace this link!)*
+* **Portfolio:** [Visit My Portfolio Website]https://devsam.pythonanywhere.com/
